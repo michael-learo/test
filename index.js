@@ -4,7 +4,7 @@ console.log(people[0].name)
 
 /**
  * This is a function.
- *
+ * words
  * @param {string} a - A string param
  * @return {string} A good string
  *
