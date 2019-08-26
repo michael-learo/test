@@ -1,4 +1,5 @@
-// var fs = require('fs')
+var fs = require('fs')
+console.log(fs)
 var people = [{ name: 'Michael Learo' }]
 
 console.log(people[0].name)
