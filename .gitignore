@@ -1,5 +1,3 @@
 /out
 /node_modules
-/cypress/screenshotsFolder
-/cypress/videosFolder
-/cypress/integration/examples
+/cypress
