@@ -1,4 +1,5 @@
-// var fs = require('fs')
+var fs = require('fs');
+console.log(fs);
 
 /**
  * A variable in the global namespace.
