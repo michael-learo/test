@@ -14,11 +14,11 @@ var people = [
     firstName: 'Michael',
     lastName: 'Learo',
     age: 34,
-    gender: 'M',
-  },
-]
+    gender: 'M'
+  }
+];
 
-console.log(people[0].name)
+console.log(people[0].name);
 
 /**
  * This is a function.
@@ -32,18 +32,18 @@ console.log(people[0].name)
  */
 
 function foo(a) {
-  return a
+  return a;
 }
 
-foo('hello world')
+foo('hello world');
 
 /**
  * @type {number}
  */
-var FOO = 1
-console.log(FOO)
+var FOO = 1;
+console.log(FOO);
 /**
  * @const {number}
  */
-const ZOO = 1
-console.log(ZOO)
+const ZOO = 1;
+console.log(ZOO);
